@@ -1,5 +1,10 @@
 # app_retention
+
 Feature Impact Analysis: Retention &amp; Experimentation in a Health-Tech Context
+
+Decision:
+Roll out to new users only; hold full rollout pending causal validation.
+
 
 Problem
 
